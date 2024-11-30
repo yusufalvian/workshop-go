@@ -33,3 +33,7 @@ Containerized local development and integration testing can become your greatest
 * [Step 10: End-To-End Tests with real dependencies](step-10-e2e-tests-with-real-dependencies.md)
 * [Step 11: Integration tests for the Go Lambda](step-11-integration-tests-for-the-lambda.md)
 * [Step 12: Exploring the running app](step-12-exploring-the-running-app.md)
+
+
+## my notes 
+- last time i did this workshop in step 7 i encounter error
